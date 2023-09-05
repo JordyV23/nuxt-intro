@@ -1,3 +1,5 @@
 <template>
-    <div>Profile Page</div>
+    <div>Mis Ideas de construccion</div>
+    <Gallery/>
+
 </template>
