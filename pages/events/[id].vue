@@ -1,6 +1,12 @@
 <script setup>
 const nuxt = useNuxtApp();
 console.log(nuxt)
+
+// Asi de definen varios layouts en un proyecto
+definePageMeta({
+    layout: 'custom'
+});
+
 </script>
 
 <template>

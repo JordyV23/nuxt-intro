@@ -3,7 +3,6 @@
     <!-- Se debe de implementar NUXTLayout junto con NuxtPage  -->
     <!-- Esto para acceder al router que tiene nuxt -->
     <NuxtLayout>
-      <Navbar/>
       <NuxtPage/>
     </NuxtLayout>
   </div>
