@@ -12,6 +12,6 @@ $showMessage("Hola plugin")
 
 <template>
   <div>
-    <Alert />
+    <ContentDoc/>
   </div>
 </template>
